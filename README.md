@@ -8,7 +8,7 @@
 Open PowerShell as administrator and enter the command below.
 
 ```powershell
-irm "https://raw.githubusercontent.com/deaglebullet/firefox-install-script/main/setup.ps1" | iex
+irm "https://raw.githubusercontent.com/Earthbadger/firefox-install-script/main/setup.ps1" | iex
 ```
 
 ## Notes
